@@ -1,3 +1,8 @@
+/*Universidad del Valle de Guatemala
+Algoritmos y estruccturas de datos
+Hoja de Trabajo 7 - Trabajo individual
+Linda Chen 23173*/
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;

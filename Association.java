@@ -1,3 +1,8 @@
+/*Universidad del Valle de Guatemala
+Algoritmos y estruccturas de datos
+Hoja de Trabajo 7 - Trabajo individual
+Linda Chen 23173*/
+
 public class Association<K extends Comparable<K>, V> implements Comparable<Association<K, V>> {
     private K key;
     private V value;
