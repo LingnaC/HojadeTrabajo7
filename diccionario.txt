@@ -1,0 +1,8 @@
+my, mi
+name, nombre
+is, es
+and, y
+i, yo
+have, tengo
+three, tres
+cats, gatos
